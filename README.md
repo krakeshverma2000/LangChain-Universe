@@ -1,6 +1,5 @@
 ﻿### LangChain-Universe
  
-
 - This GitHub repository is for for integrating OpenAI's API into an application called "Explore Beyond Universe." The code utilizes the langchain library, which provides various functionalities for language processing and conversation management. The application is built using the Streamlit framework.
 
 - The integration starts by setting up the necessary dependencies and environment variables. The user can input a topic of interest through a text input field. The code then utilizes Prompt Templates to generate prompts for conversational interactions. The first prompt asks the user to provide information about a specific object or person. The conversation history related to this input is stored in the person_memory.
